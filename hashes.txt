@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Promesas que no pudimos cumplir
+
+This log tracks the cryptographic history and versioning for the song **Promesas que no pudimos cumplir** (promesas-que-no-pudimos-cumplir).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:01:26.700086 | `v1` | `f5e4964e1e49e2cdd754c338c73bfac390bb25473ba270ebb07f398ac9499ab6` | `479c78258935d82b59fe3c5351072edfd2832a1b24cbf1b2ed6205f4efb6e42e` | `2026-06-14_promesas-que-no-pudimos-cumplir-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
