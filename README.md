@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-que-no-pudimos-cumplir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Promesas que no pudimos cumplir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-que-no-pudimos-cumplir/) |
+| **Get License** | [Request Licensing for Promesas que no pudimos cumplir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-que-no-pudimos-cumplir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tantas promesas que no pudimos cumplir
+> Pero esta noche te tengo cerca de mí
+> El humo en el aire, tu cuerpo me llama
+> Solo por hoy olvidemos el drama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
